@@ -17,4 +17,10 @@
 * PDFファイルは情報科計算機室の ~chiemi/Report/dbms16/report1 においてください
 * ファイル名は g学籍番号_g学籍番号_g学籍番号.pdf というようにメンバーの学籍番号をアンダースコア(_)で繋げてください。
 
+## おまけ：btreeプログラムを書いてみる
+* サンプルソースコード：rlsv.is.ocha.ac.jp:~chiemi/lecture/2016/dbms/btree
+* コンパイル方法
 
+```
+ % javac -sourcepath src src/btree/* -d bin 
+```
