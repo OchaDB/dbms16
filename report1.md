@@ -19,8 +19,36 @@
 
 ## おまけ：btreeプログラムを書いてみる
 * サンプルソースコード：rlsv.is.ocha.ac.jp:~chiemi/lecture/2016/dbms/btree
+* 準備
+ * ~/.bash_profileに以下の１行を付け足してください
+
+ ```
+ export CLASSPATH=./bin:$CLASSPATH
+ ```
+
+ * .bash_profileを有効にしてください
+ 
+ ```
+ % source ~/.bash_profile
+ ```
+
 * コンパイル方法
 
 ```
  % javac -sourcepath src src/btree/* -d bin 
 ```
+
+* 実行方法
+
+```
+ % java btree.Database
+```
+
+ * コピーしただけで何も編集してないでコンパイル・実行したら以下の１行が表示されるはずです
+
+ ```
+ % Hello! Let's start exercises.
+ ```
+
+* 課題をとくのに利用できるメソッドの情報
+  * [program/bree/README.md](program/btree/README.md)
