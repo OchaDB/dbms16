@@ -13,7 +13,7 @@
 | 4/19 | 第2回 |[PDF(IOcost, heap file)](pdf/data_structure_1.pdf) |
 | 4/26 | 第3回 |[PDF(linear hash)](pdf/data_structure_2.pdf) |
 | 5/10 | 第4回 | |
-| 5/17 | 第5回 |[PDF(b*-tree)](pdf/data_structure_3.pdf) [B*-tree algorithm](pdf/BtreeAlgorithm_Japanese.pdf) |
+| 5/17 | 第5回 |[PDF(b*-tree)](pdf/data_structure_3.pdf) [B*-tree algorithm](pdf/BtreeAlgorithm_Japanese.pdf) [B*tree algorithm (revised)](pdf/BtreeAlgorithm_revised.pdf) |
 | 5/24 | 第6回 |[PDF(buffer manager)](pdf/buffer_manager.pdf) |
 | 5/31 | 第7回 | |
 | 6/7 | 休講| |
