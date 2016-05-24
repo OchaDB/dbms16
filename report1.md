@@ -20,6 +20,12 @@
 ## おまけ：btreeプログラムを書いてみる
 * サンプルソースコード：rlsv.is.ocha.ac.jp:~chiemi/lecture/2016/dbms/btree
 * 準備
+ * サンプルソースコードをディレクトリごとコピーしてください
+ 
+ ```
+  % cp -r ~chiemi/lecture/2016/dbms/btree .
+ ```
+ 
  * ~/.bash_profileに以下の１行を付け足してください
 
  ```
