@@ -15,7 +15,7 @@
 | 5/10 | 第4回 | |
 | 5/17 | 第5回 |[PDF(b*-tree)](pdf/data_structure_3.pdf) [B*-tree algorithm](pdf/BtreeAlgorithm_Japanese.pdf) [B*tree algorithm (revised)](pdf/BtreeAlgorithm_revised.pdf) |
 | 5/24 | 第6回 |[PDF(buffer manager)](pdf/buffer_manager.pdf) |
-| 5/31 | 第7回 | |
+| 5/31 | 第7回 |[PDF(external sort)](pdf/external_sort.pdf) |
 | 6/7 | 休講| |
 | 6/14 | 第8回| |
 | 6/21 | 第9回 | |
