@@ -18,7 +18,7 @@
 | 5/31 | 休講 | |
 | 6/7 | 休講| |
 | 6/14 | 休講| |
-| 6/21 | 第9回 |[PDF(external sort)](pdf/external_sort.pdf) |
+| 6/21 | 第9回 |[PDF(external sort)](pdf/external_sort.pdf),[PDF(join algorithms)](pdf/join_algorithms.pdf) |
 | 6/28 | 第10回 | |
 | 7/5 | 第11回 | |
 | 7/12  |第12回| |
