@@ -18,20 +18,12 @@
 | 5/31 | 休講 | |
 | 6/7 | 休講| |
 | 6/14 | 休講| |
-<<<<<<< HEAD
 | 6/21 | 第9回 |[PDF(external sort)](pdf/external_sort.pdf),[PDF(join algorithms)](pdf/join_algorithms.pdf) |
 | 6/28 | 第10回 |[sort_merge.pdf](pdf/sort_merge.pdf),[hash_join.pdf](pdf/hash_join.pdf) |
 | 7/5 | 第11回 | |
 | 7/12  |第12回| |
 | 7/19 |第13回| |
-=======
-| 6/21 | 第7回 |[PDF(external sort)](pdf/external_sort.pdf),[PDF(join algorithms)](pdf/join_algorithms.pdf) |
-| 6/28 | 第8回 | |
-| 7/5 | 第9回 | |
-| 7/12  |第10回| |
-| 7/19 |第11回| |
->>>>>>> 71fc5cc5ed816688c8b35f8dee5a75c6658a9b38
 | 7/26 | 試験 | |
-
+| 8/3 | 補講（講師：天笠俊之(予定)）|
 ## レポート
 * [第1回レポート](report1.md) 締め切り 5/31 12:00 
