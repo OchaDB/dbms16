@@ -22,8 +22,8 @@
 | 6/28 | 第8回 |[sort_merge.pdf](pdf/sort_merge.pdf),[hash_join.pdf](pdf/hash_join.pdf) |
 | 7/5 | 第9回 |[PDF(query plan)](pdf/query_plan.pdf) |
 | 7/12  |第10回|[PDF(explain)](pdf/explain.pdf) |
-| 7/19 |第11回| |
+| 7/19 |第11回|トランザクションとログ |
 | 7/26 | 試験 | |
-| 8/3 | 補講（講師：天笠俊之(予定)）|
+| 8/3 | 補講（講師：天笠俊之）|5,6,7,8限|
 ## レポート
 * [第1回レポート](report1.md) 締め切り 5/31 12:00 
