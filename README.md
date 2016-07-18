@@ -22,7 +22,7 @@
 | 6/28 | 第8回 |[sort_merge.pdf](pdf/sort_merge.pdf),[hash_join.pdf](pdf/hash_join.pdf) |
 | 7/5 | 第9回 |[PDF(query plan)](pdf/query_plan.pdf) |
 | 7/12  |第10回|[PDF(explain)](pdf/explain.pdf) |
-| 7/19 |第11回| |
+| 7/19 |第11回|[PDF(log_and_recovery)](pdf/log_and_recovery.pdf),[demo](pdf/recovery_demo.pdf) |
 | 7/26 | 試験 | |
 | 8/3 | 補講（講師：天笠俊之(予定)）|
 ## レポート
