@@ -24,6 +24,6 @@
 | 7/12  |第10回|[PDF(explain)](pdf/explain.pdf) |
 | 7/19 |第11回|[PDF(log_and_recovery)](pdf/log_and_recovery.pdf),[demo](pdf/recovery_demo.pdf) |
 | 7/26 | 試験 |[PDF(exercises for the exam)](pdf/exercises_for_exam.pdf) |
-| 8/3 | 補講（講師：天笠俊之）|5,6,7,8限|
+| 8/3 | 補講（講師：天笠俊之）|5,6,7,8限 [PDF(concurrency control)[pdf/concurrency_control.pdf]|
 ## レポート
 * [第1回レポート](report1.md) 締め切り 5/31 12:00 
