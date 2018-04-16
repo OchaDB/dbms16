@@ -9,21 +9,21 @@
 
 | date  | No. | 講義資料 |
 |:------|:----|:--------|
-| 4/12  | 第1回 |[PDF](pdf/1st.pdf)|
-| 4/19 | 第2回 |[PDF(IOcost, heap file)](pdf/data_structure_1.pdf) |
-| 4/26 | 第3回 |[PDF(linear hash)](pdf/data_structure_2.pdf) |
-| 5/10 | 第4回 | |
-| 5/17 | 第5回 |[PDF(b*-tree)](pdf/data_structure_3.pdf) [B*-tree algorithm](pdf/BtreeAlgorithm_Japanese.pdf) [B*tree algorithm (revised)](pdf/BtreeAlgorithm_revised.pdf) |
-| 5/24 | 第6回 |[PDF(buffer manager)](pdf/buffer_manager.pdf) |
-| 5/31 | 休講 | |
-| 6/7 | 休講| |
-| 6/14 | 休講| |
-| 6/21 | 第7回 |[PDF(external sort)](pdf/external_sort.pdf),[PDF(join algorithms)](pdf/join_algorithms.pdf) |
-| 6/28 | 第8回 |[sort_merge.pdf](pdf/sort_merge.pdf),[hash_join.pdf](pdf/hash_join.pdf) |
-| 7/5 | 第9回 |[PDF(query plan)](pdf/query_plan.pdf) |
-| 7/12  |第10回|[PDF(explain)](pdf/explain.pdf) |
-| 7/19 |第11回|[PDF(log_and_recovery)](pdf/log_and_recovery.pdf),[demo](pdf/recovery_demo.pdf) |
-| 7/26 | 試験 |[PDF(exercises for the exam)](pdf/exercises_for_exam.pdf) |
-| 8/3 | 補講（講師：天笠俊之）|5,6,7,8限 [PDF(concurrency control)](pdf/concurrency_control.pdf)|
+| 4/10  | --- |休講|
+| 4/17 | 第1回 | |
+| 4/24 | 第2回 | |
+| 5/8  | 第3回 | |
+| 5/15 | 第4回 | |
+| 5/22 | 第5回 | |
+| 5/29 | 第6回 | |
+| 6/5  | 第7回 | |
+| 6/12 | 第8回 | |
+| 6/19 | 第9回 | |
+| 6/26 | 第10回 | |
+| 7/3  | 第11回 | |
+| 7/10 | 第12回 | |
+| 7/17 | 第13回 | |
+| 7/25 | 休講 | |
+| 7/31 | 第14回 | 試験|
+
 ## レポート
-* [第1回レポート](report1.md) 締め切り 5/31 12:00 
