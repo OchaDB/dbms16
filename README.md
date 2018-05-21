@@ -13,8 +13,8 @@
 | 4/17 | 第1回 | [ガイダンス/コストの考え方](pdf/guidance_cost.pdf)| |
 | 4/24 | 第2回 | [データ構造(1)](pdf/data_structure_1.pdf)| |
 | 5/8  | 第3回 | [データ構造(2),二次索引とB-tree](pdf/data_structure_2.pdf),[BtreeAlgorithm](pdf/BtreeAlgorithm.pdf)|[演習の回答](pdf/btree_answer.pdf)| |
-| 5/15 | 第4回 | | |
-| 5/22 | 第5回 | | |
+| 5/15 | 第4回 | データ構造(2)続き, [バッファマネージャ](pdf/buffer_manager.pdf) | |
+| 5/22 | 第5回 | [外部ソート](pdf/external_sort.pdf)| |
 | 5/29 | 第6回 | | |
 | 6/5  | 第7回 | | |
 | 6/12 | 第8回 | | |
