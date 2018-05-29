@@ -15,7 +15,7 @@
 | 5/8  | 第3回 | [データ構造(2),二次索引とB-tree](pdf/data_structure_2.pdf),[BtreeAlgorithm](pdf/BtreeAlgorithm.pdf)|[演習の回答](pdf/btree_answer.pdf)| |
 | 5/15 | 第4回 | データ構造(2)続き, [バッファマネージャ](pdf/buffer_manager.pdf) | |
 | 5/22 | 第5回 | [外部ソート](pdf/external_sort.pdf)| |
-| 5/29 | 第6回 | [結合アルゴリズム](pdf/join_agorithms.pdf)| |
+| 5/29 | 第6回 | [結合アルゴリズム](pdf/join_agorithms.pdf),[sort-merge join](pdf/sort_merge.pdf)| |
 | 6/5  | 第7回 | | |
 | 6/12 | 第8回 | | |
 | 6/19 | 第9回 | | |
