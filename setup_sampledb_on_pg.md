@@ -15,7 +15,7 @@
  % cd dbms18
 ```
 
-* Dockerの設定ファイル (docker-compose.yml)[db/docker-compose.yml] を作業用ディレクトリに保存する。
+* Dockerの設定ファイル [docker-compose.yml](db/docker-compose.yml) を作業用ディレクトリに保存する。
 * 設定ファイルを元にPostgreSQLとGUIツールの設置をする
 
 ```
@@ -55,7 +55,7 @@ postgresql_db_1        docker-entrypoint.sh postgres    Up      0.0.0.0:32768->5
 ```
 
 ## 手順（サンプルデータベースを用意する）
-* サンプルデータのダンプファイル (data.sql)[db/data.sql] をダウンロードして tmp/dbの下に置く。
+* サンプルデータのダンプファイル [data.sql](db/data.sql) をダウンロードして tmp/dbの下に置く。
 * PostgreSQLのクライアントで以下のように実行するとサンプルDBが作られます。
 
 ```
