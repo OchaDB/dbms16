@@ -65,7 +65,40 @@ postgresql_db_1        docker-entrypoint.sh postgres    Up      0.0.0.0:32768->5
 
 ```
  > select count(*) from customer;
-````
+```
 * 999999行のデータが入っています。
 
+## 索引を作る
+* 以下のSQL文を実行しましょう。
+
+```
+ create index idx_cust_purchase on customer(purchase);
+```
+
+## 問い合わせのプランを確認してみる
+* SQLの前にexplainをつけるとプランを出してくれます。
+
+```
+ explain select count(*) from customer where purchase < 100;
+```
+## 特定のアルゴリズムを選ばないようにする
+SQL文で以下のように設定すると、アルゴリズムを使うかどうかの
+選択ができます。
+```
+ SET enable_<アルゴリズム> = [ON/OFF]
+```
+たとえば索引を使わないようにするには
+
+```
+SET enable_indexscan = OFF
+```
+で使わないようにすることができます。
+ただ、これと合わせて
+
+```
+SET enable_bitmapscan = OFF
+```
+
+も実行しないと索引を使われるかもしれないです。
+explainを見て確認をしましょう。
 
