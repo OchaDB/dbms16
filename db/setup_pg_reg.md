@@ -38,6 +38,7 @@ A1.どうやらdockerコンテナ上のディレクトリとホストPCとのデ
     ```
 
   2. 直接githubからpg_reg.sqlファイルを持って来る
+  
     ```
     # apt-get update
     # apt-get install curl
