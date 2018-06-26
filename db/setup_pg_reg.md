@@ -29,18 +29,19 @@
 
 ## トラブルシューティング
 Q1.pg_reg.sqlが/var/lib/postgresql/dataの下にないです
+
 A1.どうやらdockerコンテナ上のディレクトリとホストPCとのディレクトリがマウントできていないようですね。Windowsだとあるケースのようです。その場合はこれを試して見てください。
 
   1. コンテナ上で端末を立ち上げる
 
-    ```
+    
     % docker exec -it <コンテナ名> bash
-    ```
+    
 
   2. 直接githubからpg_reg.sqlファイルを持って来る
   
-    ```
+    
     # apt-get update
     # apt-get install curl
     # curl https://raw.githubusercontent.com/OchaDB/dbms18/master/db/pg_reg.sql > /var/lib/postgresql/data/pg_reg.sql
-    ```
+    
