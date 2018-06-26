@@ -17,9 +17,9 @@
 | 5/22 | 第5回 | [外部ソート](pdf/external_sort.pdf)| |
 | 5/29 | 第6回 | [結合アルゴリズム](pdf/join_agorithms.pdf),[sort-merge join](pdf/sort_merge.pdf)| |
 | 6/5  | 第7回 | [問い合わせプラン](pdf/query_plan.pdf),[PostgreSQL用Docker設定ファイル](db/docker-compose.yml),[サンプルデータ](db/data.sql)| |
-| 6/12 | 第8回 | [PostgreSQLのExplainを見る](pdf/explain.pdf)|[サンプルDB](db/pg_reg.sql),[サンプルDBを使えるようにする](db/setup_pg_reg.md) |
-| 6/19 | 第9回 | | |
-| 6/26 | 第10回 | | |
+| 6/12 | 第8回 | 問い合わせプラン続き| |
+| 6/19 | 第9回 | [PostgreSQLのExplainを見る](pdf/explain.pdf)|[サンプルDB](db/pg_reg.sql),[サンプルDBを使えるようにする](db/setup_pg_reg.md) |
+| 6/26 | 第10回 | PostgreSQLのExplain続き [ログとリカバリ](pdf/log_and_recovery.pdf) | |
 | 7/3  | 第11回 | | |
 | 7/10 | 第12回 | | |
 | 7/17 | 第13回 | | |
