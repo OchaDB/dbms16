@@ -19,10 +19,10 @@
 | 6/5  | 第7回 | [問い合わせプラン](pdf/query_plan.pdf),[PostgreSQL用Docker設定ファイル](db/docker-compose.yml),[サンプルデータ](db/data.sql)| |
 | 6/12 | 第8回 | 問い合わせプラン続き| |
 | 6/19 | 第9回 | [PostgreSQLのExplainを見る](pdf/explain.pdf)|[サンプルDB](db/pg_reg.sql),[サンプルDBを使えるようにする](db/setup_pg_reg.md) |
-| 6/26 | 第10回 | PostgreSQLのExplain続き [ログとリカバリ](pdf/log_and_recovery.pdf) | |
-| 7/3  | 第11回 | | |
-| 7/10 | 第12回 | | |
-| 7/17 | 第13回 | | |
+| 6/26 | 第10回 | PostgreSQLのExplain続き | |
+| 7/3  | 休講 | | |
+| 7/10 | 第11回 | [ログとリカバリ](pdf/log_and_recovery.pdf) | |
+| 7/17 | 第12回 | 同時実行制御 & PostgreSQLでログとリカバリを実演 & 試験に関するQandA | |
 | 7/25 | 休講 | | |
 | 7/31 | 第14回 | 試験| |
 
